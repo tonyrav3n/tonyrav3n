@@ -16,7 +16,7 @@ I'm a **Python developer** and **computer science student** passionate about cre
 - Independent problem-solving and critical thinking  
 
 ## Let's Connect!
-- **Portfolio**: [My Website](https://tony-akporotu.onrender.com)  
+- **Portfolio**: [My Website](https://tonyakporotu.me)  
 - **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/tonyrav3n)  
 - **GitHub**: You're already here!  
 
