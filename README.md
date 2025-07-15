@@ -1,4 +1,4 @@
-# Hi, I'm Raven! 👋
+# Hi, I'm Tony! 👋
 
 ## About Me
 I'm a **Web3 & Fullstack Developer** building **frontend interfaces for dApps** with **TypeScript, Next.js, and React**. I’m currently expanding into **smart contract development with Solidity** to deepen my Web3 capabilities.
@@ -18,7 +18,7 @@ As a **Computer Science student**, I’m committed to **building real-world proj
 ## Let's Connect!
 - **🌐 Portfolio**: [tonyakporotu.me](https://tonyakporotu.me)
 - **💼 LinkedIn**: [linkedin.com/in/tonyrav3n](https://www.linkedin.com/in/tonyrav3n)
-- **🐦 X/Twitter**: [@tonyrav3n](https://twitter.com/0xnyrvn)
+- **🐦 X/Twitter**: [@0xnyrvn](https://twitter.com/0xnyrvn)
 - **📫 Email**: vakporotu@gmail.com
 
 ---
