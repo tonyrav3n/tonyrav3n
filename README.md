@@ -7,7 +7,7 @@ As a **Computer Science student**, I’m committed to **building real-world proj
 
 ## Tech Stack
 - **Frontend**: TypeScript, Next.js, React, Tailwind CSS
-- **Web3**: wagmi, RainbowKit, Ethers.js (learning Solidity soon)
+- **Web3**: wagmi, RainbowKit, Ethers.js, Solidity
 - **Python (compact)**: Flask, FastAPI, Selenium, data automation, scripting
 
 ## What I'm Working On
