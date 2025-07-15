@@ -1,23 +1,28 @@
 # Hi, I'm Raven! 👋
 
 ## About Me
-I'm a **Python developer** and **computer science student** passionate about creating efficient, user-friendly, and scalable solutions. With a knack for problem-solving and a love for coding, I enjoy working on projects that challenge me to learn and grow.
+I'm a **Web3 & Fullstack Developer** building **frontend interfaces for dApps** with **TypeScript, Next.js, and React**. I’m currently expanding into **smart contract development with Solidity** to deepen my Web3 capabilities.
 
-### My Skills
-- **Backend Development**: Flask, Django, FastAPI  
-- **Web Development**: HTML, CSS, JavaScript 
-- **Automation**: Web automation (Selenium), task automation  
-- **Data Analytics**: Collecting, processing, and visualizing data  
-- **AI & Machine Learning**: Currently exploring AI solutions
-  
-### Soft Skills
-- Efficient time management to deliver consistent, high-quality results  
-- Excellent team collaboration and communication  
-- Independent problem-solving and critical thinking  
+As a **Computer Science student**, I’m committed to **building real-world projects while learning in public**.
+
+## Tech Stack
+- **Frontend**: TypeScript, Next.js, React, Tailwind CSS
+- **Web3**: wagmi, RainbowKit, Ethers.js (learning Solidity soon)
+- **Python (compact)**: Flask, FastAPI, Selenium, data automation, scripting
+
+## What I'm Working On
+- Building dApp frontends that interact with EVM smart contracts
+- Understanding blockchain infrastructure and wallet connection flows
+- Learning Solidity for contract development and testing
 
 ## Let's Connect!
-- **Portfolio**: [My Website](https://tonyakporotu.me)  
-- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/tonyrav3n)  
-- **GitHub**: You're already here!  
+- **🌐 Portfolio**: [tonyakporotu.me](https://tonyakporotu.me)
+- **💼 LinkedIn**: [linkedin.com/in/tonyrav3n](https://www.linkedin.com/in/tonyrav3n)
+- **🐦 X/Twitter**: [@tonyrav3n](https://twitter.com/0xnyrvn)
+- **📫 Email**: vakporotu@gmail.com
 
-Feel free to explore my repositories, and if you have any ideas, collaborations, or feedback, I'm all ears!
+---
+
+**Feel free to explore my repositories.**  
+If you’re into Web3, building cool ideas, or want to collaborate, let’s connect.
+
