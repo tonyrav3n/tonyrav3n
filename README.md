@@ -20,4 +20,4 @@ Currently working on **amis. bot** — creating trustless escrow infrastructure 
 
 ---
 
-[**🌐 Portfolio**](https://your-new-portfolio-link.com) · [**🐦 X / Twitter**](https://x.com/0xtonyraven) [**Discord**](https://discord.com/users/tonyrav3n)
+[**🌐 Portfolio**](https://your-new-portfolio-link.com) · [**X / Twitter**](https://x.com/0xtonyraven) · [**Discord**](https://discord.com/users/tonyrav3n)
