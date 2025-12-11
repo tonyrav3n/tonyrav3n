@@ -1,6 +1,7 @@
 # Hi, I'm Tony. 👋
 
 **Fullstack Developer | CS Student**
+
 I build minimal web applications and secure smart contracts.
 
 ---
