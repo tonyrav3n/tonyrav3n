@@ -6,18 +6,18 @@ I build minimal web applications and secure smart contracts.
 
 ---
 
-### ⚡ Tech Stack
+### Tech Stack
 * **Languages:** JavaScript, Solidity, Python
 * **Focus:** Web Apps & EVM Smart Contracts
 * **Network:** Base / Ethereum
 
-### 🔨 Building
+### Building
 Currently working on **amis. bot** — creating trustless escrow infrastructure for Discord communities.
 
-### 🎮 Interests
+### Interests
 * Music
 * Gaming
 
 ---
 
-[**🌐 Portfolio**](https://your-new-portfolio-link.com) · [**🐦 X / Twitter**](https://x.com/0xtonyraven)
+[**🌐 Portfolio**](https://your-new-portfolio-link.com) · [**🐦 X / Twitter**](https://x.com/0xtonyraven) [**Discord**](https://discord.com/users/tonyrav3n)
