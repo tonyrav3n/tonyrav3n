@@ -12,7 +12,7 @@ I build minimal web applications and secure smart contracts.
 * **Network:** Base / Ethereum
 
 ### Building
-Currently working on **amis. bot** — creating trustless escrow infrastructure for Discord communities.
+Currently working on **amis. bot**. Creating trustless escrow infrastructure for Discord communities!
 
 ### Interests
 * Music
