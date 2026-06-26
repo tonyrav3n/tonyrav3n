@@ -46,6 +46,6 @@ I specialize in designing low-latency, memory-safe backend systems and scalable 
 ## 📬 Connect
 
 <div align="center">
-  <a href="https://x.com/0xtonyraven"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/></a>
+  <a href="https://x.com/tonyraven_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/></a>
   <a href="https://discord.com/users/643962985089335296"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </div>
