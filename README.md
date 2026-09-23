@@ -6,16 +6,7 @@
 
 <br>
 
-## ⚡ About Me
-
-I specialize in designing low-latency, memory-safe backend systems and scalable APIs. I believe in writing idiomatic code, robust error handling, and defense-in-depth architecture. 
-
-- 🔭 **Currently focusing on:** High-performance microservices, concurrency, and robust data storage.
-- ⚙️ **Core paradigms:** `async/await`, Type-Driven Development, Zero-Cost Abstractions.
-
-<br>
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Primary Arsenal
 <p align="left">
