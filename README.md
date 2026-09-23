@@ -25,18 +25,9 @@
 
 <br>
 
-## 📊 GitHub Stats
+## Connect
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonyrav3n&show_icons=true&theme=radical&hide_border=true" alt="Tony's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyrav3n&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<br>
-
-## 📬 Connect
-
-<div align="center">
-  <a href="https://x.com/tonyraven_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/></a>
+  <a href="https://x.com/veynkouki"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/></a>
   <a href="https://discord.com/users/643962985089335296"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </div>
